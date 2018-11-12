@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NewMultimedia1</string>
+    <string name="editTextinput">입력하세요</string>
+    <string name="btnFileRead">File Read From Inner</string>
+    <string name="btnFileWrite">File Output Form Edit</string>
+
 </resources>
